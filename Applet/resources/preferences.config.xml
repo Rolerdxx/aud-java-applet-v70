@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PreferencesMetaData>
+   <parameter name="FONT_SIZE" resIDName="FontLabel" advType="2" resIDDescr="FontLabel_description">
+   </parameter>
+   <parameter name="OBJ_TREE_FONT_SIZE" resIDName="ObjectTreeFont" advType="2" resIDDescr="ObjectTreeFont_description">
+   </parameter>
+   <parameter name="COLOR_LABEL" resIDName="ColorLabel" advType="2" resIDDescr="ColorLabel_description">
+   </parameter>
+   <parameter name="SINGLE_VIEW_MODIF_COLOR" resIDName="SingleModifColorLabel" advType="2" resIDDescr="SingleModifColorLabel_description">
+   </parameter>
+   <parameter name="TAB_MODIF_COLOR" resIDName="TabModifColorLabel" advType="2" resIDDescr="TabModifColorLabel_description">
+   </parameter>
+   <parameter name="GROUP_VIEW_MODIF_COLOR" resIDName="GroupModifColorLabel" advType="2" resIDDescr="GroupModifColorLabel_description">
+   </parameter>
+   <parameter name="LOOK_AND_FEEL_CLASS" resIDName="LookAndFeelLabel" advType="2" resIDDescr="LookAndFeelLabel_description">
+   </parameter>
+
+
+   
+	<parameter name="UrlEncoding" resIDName="URLEncodingLabel" advType="2" resIDDescr="URLEncodingLabel_description">
+		<availableValue index="0" value="0"
+            resID="URLEncodingLabel_avlb_value_0"
+            resIDDescr="URLEncodingLabel_avlb_value_0_descr" />
+		<availableValue index="1" value="1"
+            resID="URLEncodingLabel_avlb_value_1"
+            resIDDescr="URLEncodingLabel_avlb_value_1_descr" />		
+	</parameter>
+	<parameter name="DATE_FORMAT" resIDName="DateFormatLabel" advType="2" resIDDescr="DateFormatLabel_description">
+    </parameter>
+    <parameter name="NUMBER_FORMAT" resIDName="DecimalFormatLabel" advType="2" resIDDescr="DecimalFormatLabel_description">
+    </parameter>
+	
+	
+	
+	<parameter name="OBJECT_FORMAT" resIDName="ObjectFormatLabel" advType="3" resIDDescr="ObjectFormatLabel_description">
+    </parameter>
+    <parameter name="STRUCT_NODE_FORMAT" resIDName="StructureFormat" advType="3" resIDDescr="StructureFormat_description">
+    </parameter>
+    <parameter name="TOOLTIP" resIDName="DataTitle3" advType="2" resIDDescr="DataTitle3_description">
+    </parameter>
+    <parameter name="SORT_WORKSPACE_BY" resIDName="DataTitle2" advType="3" resIDDescr="DataTitle2_description">
+    </parameter>
+    <parameter name="LOAD_LOCK" resIDName="PreferenceLocked" advType="3" resIDDescr="PreferenceLocked_description">
+		<availableValue index="0" value="0"
+            resID="PrefValueYes"
+            resIDDescr="PreferenceLocked_avlb_value_0_descr" />
+		<availableValue index="1" value="1"
+            resID="PrefValueNo"
+            resIDDescr="PreferenceLocked_avlb_value_1_descr" />
+    </parameter>
+    <parameter name="LOCKED_OBJ_FOLDER" resIDName="LockedObjectsFolder" advType="1" resIDDescr="LockedObjectsFolder_description">
+    </parameter>
+
+	
+	
+	<parameter name="EXT_MODIF_ACTION" resIDName="ExternalModifLabel" advType="2" resIDDescr="ExternalModifLabel_description">
+		<availableValue index="0" value="0"
+            resID="ExternalModifLabel_avlb_value_0"
+            resIDDescr="ExternalModifLabel_avlb_value_0_descr" />
+		<availableValue index="1" value="1"
+            resID="ExternalModifLabel_avlb_value_1"
+            resIDDescr="ExternalModifLabel_avlb_value_1_descr" />
+		<availableValue index="2" value="2"
+            resID="ExternalModifLabel_avlb_value_2"
+            resIDDescr="ExternalModifLabel_avlb_value_2_descr" />
+	</parameter>
+	 <parameter name="LOCK_AFTER_CREATION" resIDName="LockAfterCreation" advType="3" resIDDescr="LockAfterCreation_description">
+		<availableValue index="0" value="0"
+            resID="PrefValueYes"
+            resIDDescr="LockAfterCreation_avlb_value_0_descr" />
+		<availableValue index="1" value="1"
+            resID="PrefValueNo"
+            resIDDescr="LockAfterCreation_avlb_value_1_descr" />
+    </parameter>
+	<parameter name="ADD_WS_AFTER_CREATION" resIDName="AddToWSAfterCreation" advType="3" resIDDescr="AddToWSAfterCreation_description">
+		<availableValue index="0" value="0"
+            resID="PrefValueYes"
+            resIDDescr="AddToWSAfterCreation_avlb_value_0_descr" />
+		<availableValue index="1" value="1"
+            resID="PrefValueNo"
+            resIDDescr="AddToWSAfterCreation_avlb_value_1_descr" />
+    </parameter>
+	<parameter name="VALIDATE_CLOSE" resIDName="ValidateClosePreference" advType="2" resIDDescr="ValidateClosePreference_description">
+		<availableValue index="0" value="0"
+            resID="ValidateClosePreference_avlb_value_0"
+            resIDDescr="ValidateClosePreference_avlb_value_0_descr" />
+		<availableValue index="1" value="1"
+            resID="ValidateClosePreference_avlb_value_1"
+            resIDDescr="ValidateClosePreference_avlb_value_1_descr" />		
+	</parameter>
+	<parameter name="LOCAL_FILE_DELETE" resIDName="LocalFileDeleteLabel" advType="2" resIDDescr="LocalFileDeleteLabel_description">
+		<availableValue index="0" value="0"
+            resID="LocalFileDeleteLabel_avlb_value_0"
+            resIDDescr="LocalFileDeleteLabel_avlb_value_0_descr" />
+		<availableValue index="1" value="1"
+            resID="LocalFileDeleteLabel_avlb_value_1"
+            resIDDescr="LocalFileDeleteLabel_avlb_value_1_descr" />
+		<availableValue index="2" value="2"
+            resID="LocalFileDeleteLabel_avlb_value_2"
+            resIDDescr="LocalFileDeleteLabel_avlb_value_2_descr" />
+	</parameter>
+	<parameter name="PREF_FILE_ACTION" resIDName="FileActionPrefLabel" advType="3" resIDDescr="FileActionPrefLabel_description">
+    </parameter>
+	<parameter name="PREF_DEF_STRUCTURE_VIEW" resIDName="DefStrViewPrefLabel" advType="3" resIDDescr="DefStrViewPrefLabel_description">
+    </parameter>
+	<parameter name="OVERLOAD_LOCAL_FILE" resIDName="FileOverwriteLabel" advType="2" resIDDescr="FileOverwriteLabel_description">
+		<availableValue index="0" value="0"
+            resID="FileOverwriteLabel_avlb_value_0"
+            resIDDescr="FileOverwriteLabel_avlb_value_0_descr" />
+		<availableValue index="1" value="1"
+            resID="FileOverwriteLabel_avlb_value_1"
+            resIDDescr="FileOverwriteLabel_avlb_value_1_descr" />		
+	</parameter>
+	<parameter name="ADD_TO_HISTORY_ON" resIDName="AddToDesktopOnOption" advType="3" resIDDescr="AddToDesktopOnOption_description">
+		<availableValue index="0" value="0"
+            resID="PrefValueYes"
+            resIDDescr="AddToDesktopOnOption_avlb_value_0_descr" />
+		<availableValue index="1" value="1"
+            resID="PrefValueNo"
+            resIDDescr="AddToDesktopOnOption_avlb_value_1_descr" />
+    </parameter>
+	<parameter name="Silent_DnD_Attachment" resIDName="SilentDnDAttachment" advType="3" resIDDescr="SilentDnDAttachment_description">
+		<availableValue index="0" value="0"
+            resID="PrefValueYes"
+            resIDDescr="SilentDnDAttachment_avlb_value_0_descr" />
+		<availableValue index="1" value="1"
+            resID="PrefValueNo"
+            resIDDescr="SilentDnDAttachment_avlb_value_1_descr" />
+    </parameter>
+	
+	
+	
+	<parameter name="DISPLAY_LAST_VER" resIDName="PreferenceLastVersion" advType="3" resIDDescr="PreferenceLastVersion_description">
+		<availableValue index="0" value="0"
+            resID="PrefValueYes"
+            resIDDescr="PreferenceLastVersion_avlb_value_0_descr" />
+		<availableValue index="1" value="1"
+            resID="PrefValueNo"
+            resIDDescr="PreferenceLastVersion_avlb_value_1_descr" />
+    </parameter>
+	<parameter name="DISPLAY_STR_LAST_VER" resIDName="PreferenceStrLastVersion" advType="3" resIDDescr="PreferenceStrLastVersion_description">
+		<availableValue index="0" value="0"
+            resID="PrefValueYes"
+            resIDDescr="PreferenceStrLastVersion_avlb_value_0_descr" />
+		<availableValue index="1" value="1"
+            resID="PrefValueNo"
+            resIDDescr="PreferenceStrLastVersion_avlb_value_1_descr" />
+    </parameter>
+	<parameter name="DISPLAY_STR_LAST_VER" resIDName="QuickSearchCriteriaPreference" advType="2" resIDDescr="QuickSearchCriteriaPreference_description">
+		<availableValue index="0" value="0"
+            resID="QuickSearchCriteriaDoNotInit"
+            resIDDescr="QuickSearchCriteriaPreference_avlb_value_0_descr" />
+		<availableValue index="1" value="1"
+            resID="QuickSearchCriteriaInit"
+            resIDDescr="QuickSearchCriteriaPreference_avlb_value_1_descr" />
+		<availableValue index="2" value="2"
+            resID="QuickSearchCriteriaInitButClear"
+            resIDDescr="QuickSearchCriteriaPreference_avlb_value_2_descr" />
+	</parameter>
+	<parameter name="WILD_CARD_REF" resIDName="WildcardCardRefPreference" advType="3" resIDDescr="WildcardCardRefPreference_description">
+		<availableValue index="0" value="0"
+            resID="WildcardCardRefPreferenceNo"
+            resIDDescr="WildcardCardRefPreference_avlb_value_0_descr" />
+		<availableValue index="1" value="1"
+            resID="WildcardCardRefPreferenceAroundValue"
+            resIDDescr="WildcardCardRefPreference_avlb_value_1_descr" />
+        <availableValue index="2" value="2"
+            resID="WildcardCardRefPreferenceEndOfValue"
+            resIDDescr="WildcardCardRefPreference_avlb_value_2_descr" />
+    </parameter>
+	<parameter name="SEARCH_IGNORE_CASE" resIDName="SearchIgnoreCase" advType="3" resIDDescr="SearchIgnoreCase_description">
+		<availableValue index="0" value="0"
+            resID="PrefValueYes"
+            resIDDescr="SearchIgnoreCase_avlb_value_0_descr" />
+		<availableValue index="1" value="1"
+            resID="PrefValueNo"
+            resIDDescr="SearchIgnoreCase_avlb_value_1_descr" />
+    </parameter>
+	<parameter name="FULLTEXT_LIMIT" resIDName="MaxFullTextRes" advType="3" resIDDescr="MaxFullTextRes_description">
+    </parameter>
+	<parameter name="DEFAULT_SEARCH_SORT" resIDName="DefaultSearchSortPreference" advType="2" resIDDescr="DefaultSearchSortPreference_description">
+		<availableValue index="0" value="0"
+            resID="DefaultSearchSortDateModif"
+            resIDDescr="DefaultSearchSortPreference_avlb_value_0_descr" />
+		<availableValue index="1" value="1"
+            resID="DefaultSearchSortDateCreation"
+            resIDDescr="DefaultSearchSortPreference_avlb_value_1_descr" />
+		<availableValue index="2" value="2"
+            resID="DefaultSearchSortLocker"
+            resIDDescr="DefaultSearchSortPreference_avlb_value_2_descr" />
+	</parameter>
+	<parameter name="SEARCH_MIN_CHAR" resIDName="QuickSearchCriteriaMinCaracter" advType="1" resIDDescr="QuickSearchCriteriaMinCaracter_description">
+    </parameter>
+	<parameter name="HIDE_SEARCH_CRITERIA" resIDName="HideSearchCriteria" advType="3" resIDDescr="HideSearchCriteria_description">
+		<availableValue index="0" value="0"
+            resID="PrefValueYes"
+            resIDDescr="HideSearchCriteria_avlb_value_0_descr" />
+		<availableValue index="1" value="1"
+            resID="PrefValueNo"
+            resIDDescr="HideSearchCriteria_avlb_value_1_descr" />
+    </parameter>
+	
+	
+	
+	<parameter name="USE_VERSION" resIDName="UseVersion" advType="3" resIDDescr="UseVersion_description">
+		<availableValue index="0" value="0"
+            resID="PrefValueYes"
+            resIDDescr="UseVersion_avlb_value_0_descr" />
+		<availableValue index="1" value="1"
+            resID="PrefValueNo"
+            resIDDescr="UseVersion_avlb_value_1_descr" />
+    </parameter>
+	<parameter name="USE_RELEASE" resIDName="UseRelease" advType="3" resIDDescr="UseRelease_description">
+		<availableValue index="0" value="0"
+            resID="PrefValueYes"
+            resIDDescr="UseRelease_avlb_value_0_descr" />
+		<availableValue index="1" value="1"
+            resID="PrefValueNo"
+            resIDDescr="UseRelease_avlb_value_1_descr" />
+    </parameter>
+	<parameter name="DEFAULT_DEPTH" resIDName="DisplayDepthLabel" advType="1" resIDDescr="DisplayDepthLabel_description">
+    </parameter>
+	<parameter name="DISPLAY_FIRST_LV" resIDName="PreferenceFirstLevel" advType="3" resIDDescr="PreferenceFirstLevel_description">
+		<availableValue index="0" value="0"
+            resID="PrefValueYes"
+            resIDDescr="PreferenceFirstLevel_avlb_value_0_descr" />
+		<availableValue index="1" value="1"
+            resID="PrefValueNo"
+            resIDDescr="PreferenceFirstLevel_avlb_value_1_descr" />
+    </parameter>
+	<parameter name="DISPLAY_DRW" resIDName="PreferenceDisplayDRW" advType="3" resIDDescr="PreferenceDisplayDRW_description">
+		<availableValue index="0" value="0"
+            resID="PrefValueYes"
+            resIDDescr="PreferenceDisplayDRW_avlb_value_0_descr" />
+		<availableValue index="1" value="1"
+            resID="PrefValueNo"
+            resIDDescr="PreferenceDisplayDRW_avlb_value_1_descr" />
+    </parameter>
+	<parameter name="FIXED_COLUMN_IN_GROUP_MODE" resIDName="FixedColumnInGroupMode" advType="3" resIDDescr="FixedColumnInGroupMode_description">
+		<availableValue index="0" value="0"
+            resID="PrefValueYes"
+            resIDDescr="FixedColumnInGroupMode_avlb_value_0_descr" />
+		<availableValue index="1" value="1"
+            resID="PrefValueNo"
+            resIDDescr="FixedColumnInGroupMode_avlb_value_1_descr" />
+    </parameter>
+	<parameter name="FRAME_NB" resIDName="MaxiFrameLabel" advType="1" resIDDescr="MaxiFrameLabel_description">
+    </parameter>
+	<parameter name="TABLE_RESIZE_MODE" resIDName="TableResizeModeLabel" advType="2" resIDDescr="TableResizeModeLabel_description">
+		<availableValue index="0" value="0"
+            resID="TableResizeModeAuto"
+            resIDDescr="TableResizeModeLabel_avlb_value_0_descr" />
+		<availableValue index="1" value="1"
+            resID="TableResizeModeOff"
+            resIDDescr="TableResizeModeLabel_avlb_value_1_descr" />
+		<availableValue index="2" value="2"
+            resID="TableResizeModeAll"
+            resIDDescr="TableResizeModeLabel_avlb_value_2_descr" />
+		<availableValue index="3" value="3"
+            resID="TableResizeModeLast"
+            resIDDescr="TableResizeModeLabel_avlb_value_3_descr" />
+		<availableValue index="4" value="4"
+            resID="TableResizeModeNext"
+            resIDDescr="TableResizeModeLabel_avlb_value_4_descr" />
+		<availableValue index="5" value="5"
+            resID="TableResizeModeSubsequent"
+            resIDDescr="TableResizeModeLabel_avlb_value_5_descr" />
+	</parameter>
+	<parameter name="HISTORY_LOG_EVT" resIDName="HistoryFunctionsPreference" advType="3" resIDDescr="HistoryFunctionsPreference_description">
+    </parameter>
+	<parameter name="HISTORY_SINCE" resIDName="HistorySincePreference" advType="2" resIDDescr="HistorySincePreference_description">
+    </parameter>
+	<parameter name="HISTORY_VERSION" resIDName="HistoryVersionPreference" advType="3" resIDDescr="HistoryVersionPreference_description">
+		<availableValue index="0" value="0"
+            resID="HistoryVersionCurrent"
+            resIDDescr="HistoryVersionPreference_avlb_value_0_descr" />
+		<availableValue index="1" value="1"
+            resID="HistoryVersionAll"
+            resIDDescr="HistoryVersionPreference_avlb_value_1_descr" />
+    </parameter>
+	<parameter name="PREVIEW_WIDTH" resIDName="PreviewWidthLabel" advType="3" resIDDescr="PreviewWidthLabel_description">
+    </parameter>
+	<parameter name="COPY_STRUCTURE_DEPTH" resIDName="StructureCopyDepth" advType="3" resIDDescr="StructureCopyDepth_description">
+    </parameter>
+	<parameter name="Reset_filter" resIDName="ResetFilter" advType="3" resIDDescr="ResetFilter_description">
+		<availableValue index="0" value="0"
+            resID="PrefValueYes"
+            resIDDescr="ResetFilter_avlb_value_0_descr" />
+		<availableValue index="1" value="1"
+            resID="PrefValueNo"
+            resIDDescr="ResetFilter_avlb_value_1_descr" />
+    </parameter>
+	<parameter name="TOOLBAR_MODE" resIDName="toolBarMode" advType="3" resIDDescr="toolBarMode_description">
+		<availableValue index="0" value="0"
+            resID="toolBarRibbon"
+            resIDDescr="toolBarMode_avlb_value_0_descr" />
+		<availableValue index="1" value="1"
+            resID="toolBarClassical"
+            resIDDescr="toolBarMode_avlb_value_1_descr" />
+    </parameter>	
+</PreferencesMetaData>

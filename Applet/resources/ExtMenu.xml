@@ -1,0 +1,127 @@
+<?xml version="1.0"?>
+<java version="1.4.0-beta" class="java.beans.XMLDecoder">
+	<object class="com.a7.dms.openapi.databeans.ExtappMenuBean">
+		<void property="dispatcherClass">
+			<string>com.a7.dms.gui.tyco.MenuDispatcher</string>
+		</void>
+            <void property="menuTitle">
+			<string>Tyco</string>
+		</void>
+		<void method="addMenuItem">
+			<object class="com.a7.dms.openapi.databeans.ExtappMenuItemBean">
+               		<void property="menuTitle">
+					<string>Custom structure - Manual</string>
+				</void>
+ 		             <void property="menuAction">
+					<string>TY_CS_MAN</string>
+				</void>
+				<void method="addLogin">
+					<string>*</string>
+				</void>
+			</object>
+		</void>
+		<void method="addMenuItem">
+			<object class="com.a7.dms.openapi.databeans.ExtappMenuItemBean">
+               		<void property="menuTitle">
+					<string>Custom structure - Automated</string>
+				</void>
+ 		            <void property="menuAction">
+					<string>TY_CS_AUTO</string>
+				</void>
+				<void method="addLogin">
+					<string>*</string>
+				</void>
+			</object>
+		</void>
+		<void method="addMenuItem">
+			<object class="com.a7.dms.openapi.databeans.ExtappMenuItemBean">
+               		<void property="menuTitle">
+					<string>Edit VDS</string>
+				</void>
+ 		            <void property="menuAction">
+					<string>TY_VDS_EDIT</string>
+				</void>
+				<void method="addLogin">
+					<string>*</string>
+				</void>
+			</object>
+		</void>
+		<void method="addMenuItem">
+			<object class="com.a7.dms.openapi.databeans.ExtappMenuItemBean">
+               		<void property="menuTitle">
+					<string>Create VDS</string>
+				</void>
+ 		            <void property="menuAction">
+					<string>TY_VDS_CREATE</string>
+				</void>
+				<void method="addLogin">
+					<string>*</string>
+				</void>
+			</object>
+		</void>
+		<void method="addMenuItem">
+			<object class="com.a7.dms.openapi.databeans.ExtappMenuItemBean">
+               		<void property="menuTitle">
+					<string>Create VDS Release</string>
+				</void>
+ 		            <void property="menuAction">
+					<string>TY_VDS_RELEASE</string>
+				</void>
+				<void method="addLogin">
+					<string>*</string>
+				</void>
+			</object>
+		</void>
+		<void method="addMenuItem">
+			<object class="com.a7.dms.openapi.databeans.ExtappMenuItemBean">
+               		<void property="menuTitle">
+					<string>Create Offer</string>
+				</void>
+ 		            <void property="menuAction">
+					<string>TY_OFFER_CREATE</string>
+				</void>
+				<void method="addLogin">
+					<string>*</string>
+				</void>
+			</object>
+		</void>
+		<void method="addMenuItem">
+			<object class="com.a7.dms.openapi.databeans.ExtappMenuItemBean">
+               		<void property="menuTitle">
+					<string>Edit offer</string>
+				</void>
+ 		            <void property="menuAction">
+					<string>TY_OFFER_EDIT</string>
+				</void>
+				<void method="addLogin">
+					<string>*</string>
+				</void>
+			</object>
+		</void>
+
+
+		<!-- This is the way to add submenu. This is recursive/submenu added to submenu at any depth/-->
+		<!--
+		<void method="addMenuItem">
+			<object class="com.a7.dms.openapi.databeans.ExtappMenuItemBean">
+               			<void property="menuTitle">
+					<string>Deep space</string>
+				</void>
+               			<void property="subMenu">
+					<boolean>true</boolean>
+				</void>
+				<void method="addMenuItem">
+					<object class="com.a7.dms.openapi.databeans.ExtappMenuItemBean">
+               					<void property="menuTitle">
+							<string>DeepSpace menu</string>
+						</void>
+ 		               			<void property="menuAction">
+							<string>TY_DS</string>
+						</void>
+					</object>
+				</void>
+			</object>
+		</void>
+		-->
+	</object>
+</java>
